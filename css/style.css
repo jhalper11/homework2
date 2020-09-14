@@ -16,6 +16,7 @@ h2 {
     text-shadow: 5px 5px 2px #808080;
 }
 p {
+    color: #ffffff;
     font-size: 24px;
     padding-top: 20px;
 }
@@ -27,9 +28,19 @@ div.red {
     background-color: #FF0000;
     text-align: right; 
 }
+p {
+    color: #ffffff;
+    font-size: 24px;
+    padding-top: 20px;
+}
 div.blue{
     background-color: #0000FF;
     text-align: left;
+}
+p {
+    color: #ffffff;
+    font-size: 24px;
+    padding-top: 20px;
 }
 div.yellow{
     background-color: #FFFF00;
