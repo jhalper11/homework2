@@ -1,10 +1,11 @@
 body {
+    line-height:3;
     font-family: "Lucidia Grande", sans-serif;
     color: #ffffff;
     background-color: #000000;
 }
 h1 {
-    text-align:center;
+    text-align: center;
     font-size: 64px
 }
 img {
@@ -24,49 +25,42 @@ div {
     height: 150px;
     padding: 25px;
 }
-div.red {
+#red {
     background-color: #FF0000;
     text-align: right; 
 }
-p {
-    color: #ffffff;
-    font-size: 24px;
-    padding-top: 20px;
-}
-div.blue{
+
+#blue{
     background-color: #0000FF;
     text-align: left;
 }
-p {
-    color: #ffffff;
-    font-size: 24px;
-    padding-top: 20px;
-}
-div.yellow{
+
+#yellow{
     background-color: #FFFF00;
     text-align: right;
 }
-h2 {
+
+#yellow h2 {
     font-size: 30px;
     color: #000000;
     text-shadow: 5px 5px 2px #c7e2c7;
 }
-p{
+
+#yellow p{
     color: #000000;
     font-size: 24px;
     padding-top: 20px;
 }
-div.green{
+
+#green{
     background-color: #008000;
     text-align: left;
 }
-p {
-    color: #ffffff;
-    font-size: 24px;
-    padding-top: 20px;
-}
-footer {
+
+footer p{
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
 }
